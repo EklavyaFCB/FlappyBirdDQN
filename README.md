@@ -6,5 +6,7 @@ The goal with this approach was to attempt to implement a method with a fundamen
 
 ![Hard](img/Hard.png)
 
-![Hard](img/Graph.png)
+![Pseudocode](img/DQNPseudocode.png)
+
+![Graph](img/Graph.png)
 
