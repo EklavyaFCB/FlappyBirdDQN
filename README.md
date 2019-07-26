@@ -1,4 +1,4 @@
-# FlappyBirdDQN
+# Flappy Bird Deep Q-Learning Networks
 
 In this project we attempt to develop models which are able to learn to play the game ‘Flappy Bird’, and ideally surpass human level scores by using Reinforcement Learning techniques. Specifically, we investigate deep q-learning networks (DQNs), to develop an general overview of the problem and deeper understanding on reinforcement learning techniques. We go through its respective technicalities, and present conclusive results on experiments and hyper-parameter selection, in order to develop an optimal policy.
 
