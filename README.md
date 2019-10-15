@@ -12,3 +12,5 @@ The goal with this approach was to attempt to implement a method with a fundamen
 
 ![Graph](img/Graph.png)
 
+# Video
+The results can be view on [this video](https://youtu.be/db9bNbZNRjw).
